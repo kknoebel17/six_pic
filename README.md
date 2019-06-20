@@ -1,5 +1,4 @@
 # six_pic
-Six pic beer labeler 
 
 Six Pic is an app that labels beer by a picture of the label, and retrieves information about the beer from BrweryDB's API. This concept program will utilize SciKit Learn, Tensorflow and Keras for the machine learning model, 
 as well as OpenCV for image manipulation, all built on Python. Furthermore, Matplotlib, Pandas and Numpy will provide the 
