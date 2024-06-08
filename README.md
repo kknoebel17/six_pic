@@ -1,4 +1,4 @@
-# six_pic
+# Six Pic
 
 **NOTE:** This is a work in progress.
 
